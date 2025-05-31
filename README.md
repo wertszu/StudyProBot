@@ -64,4 +64,4 @@ The bot uses SQLite database with the following tables:
 
 ## Contributing
 
-Feel free to submit issues and enhancement requests! 
+Feel free to submit issues and enhancement requests! # study-helper-bot
